@@ -1159,7 +1159,7 @@
     <string name="sound_category_notification_title" msgid="3502115998790286943">"Notificações"</string>
     <string name="sound_category_feedback_title" msgid="4399742321363475393">"Retorno"</string>
 
-    <string name="cm_settings_title">Conf. CyanogenMod</string>
+    <string name="cm_settings_title">Conf. pffmod</string>
 
     <string name="battery_history_label">Histórico da bateria</string>
     <string name="device_hostname">Nome do dispositivo</string>

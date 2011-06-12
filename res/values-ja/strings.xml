@@ -1164,7 +1164,7 @@
     <!-- Added for CM -->
     <string name="mod_version">"Modバージョン"</string>
     <string name="mod_version_default">"不明"</string>
-    <string name="cm_settings_title">CyanogenMod設定</string>
+    <string name="cm_settings_title">pffmod設定</string>
     <string name="adb_notify">"USBデバッグを通知する"</string>
     <string name="cpu_info">CPU情報</string>
     <string name="mem_info">メモリ情報(空き/トータル)</string>

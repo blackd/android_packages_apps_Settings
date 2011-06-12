@@ -41,12 +41,12 @@
 
 	<!-- CM Settings -->
         <com.android.settings.IconPreferenceScreen
-            settings:icon="@drawable/ic_cyanogenmod"
+            settings:icon="@drawable/ic_pffmodmod"
             android:title="@string/cm_settings_title">
             <intent
                 android:action="android.intent.action.MAIN"
-                android:targetPackage="com.cyanogenmod.cmparts"
-                android:targetClass="com.cyanogenmod.cmparts.activities.MainActivity" />
+                android:targetPackage="com.pffmodmod.cmparts"
+                android:targetClass="com.pffmodmod.cmparts.activities.MainActivity" />
         </com.android.settings.IconPreferenceScreen>
 
 
