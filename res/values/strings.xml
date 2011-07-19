@@ -746,6 +746,7 @@
     <string name="bluetooth_profile_opp">Transfer</string>
     <!-- Bluetooth settings.  The user-visible string that is used whenever referring to the HID profile. -->
     <string name="bluetooth_profile_hid">HID</string>
+    <string name="bluetooth_profile_network">Network</string>
     <!-- Bluetooth settings.  The summary string when a device is connected to the A2DP profile. -->
     <string name="bluetooth_summary_connected_to_a2dp">Connected to media audio</string>
     <!-- Bluetooth settings.  The summary string when a device is connected to the headset profile. -->
@@ -1624,6 +1625,8 @@
     <string name="settings_license_activity_unavailable">There is a problem loading the licenses.</string>
     <!-- About phone settings screen, Open source license dialog title until license is fully loaded -->
     <string name="settings_license_activity_loading">Loading\u2026</string>
+    <!-- About phone settings, CM Legal information setting option name and title of dialog box holding license info -->
+    <string name="settings_cmlicense_activity_title">CyanogenMod licenses</string>
 
     <!-- About phone settings, Safety Legal information setting option name and title of dialog box holding safety legal info -->
     <string name="settings_safetylegal_title">Safety information</string>
